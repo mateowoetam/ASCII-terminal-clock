@@ -25,7 +25,7 @@ I found it challenging to implement the ability to display the clock in the midd
 - README.md
 - time2.py 
 
-## how to install:
+## How to install:
 Dependencies:
 - Python 3.10 (I haven't tested if it works on older versions)
 
