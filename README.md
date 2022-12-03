@@ -5,7 +5,6 @@ A Python script that displays an ASCII-style clock in the terminal
 It imports the 'time' and 'os' from the system, clears the terminal, reads the current time, formats the time into ASCII with a given representation, and prints the clock, repeating every second to stay on track. 
 
 ## Exmaple:
-03:43 PM looks like this 
 
   000     333            4   4    333             PPP    M   M  
  0   0   3   3     7     4   4   3   3           P   P   MM MM  
