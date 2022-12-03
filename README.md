@@ -3,7 +3,7 @@ A Python script that displays an ASCII-style clock in the terminal
 
 ## How it works:
 It imports the 'time' and 'os' from the system, clears the terminal, reads the current time, formats the time into ASCII with a given representation, and prints the clock, repeating every second to stay on track. 
-- The script is also able to display seconds is edited. 
+- The script is also able to display seconds when edited. 
 - to run 24h format the time should be set like that in the system
 
 ## Example:
