@@ -5,7 +5,7 @@ A Python script that displays an ASCII-style clock in the terminal
 It imports the 'time' and 'os' from the system, clears the terminal, reads the current time, formats the time into ASCII with a given representation, and prints the clock, repeating every second to stay on track. 
 
 ## Example:
-![Screenshot from 2022-12-03 15-46-24](https://user-images.githubusercontent.com/79337611/205461471-1ce31583-9daf-49d8-b88c-bfa0ad5e025a.png)
+![Screenshot from 2022-12-03 15-47-43](https://user-images.githubusercontent.com/79337611/205461513-df229965-a757-4745-bc54-78250fbef06b.png)
 
 ## Some challenges:
 I found it challenging to implement the ability to display the clock in the middle of the terminal window (an upcoming feature) and create ASCII art of different sizes to have versatile sizes.
