@@ -1,5 +1,3 @@
-![ASCII-logo2](https://user-images.githubusercontent.com/79337611/205462447-c70dcba5-db7e-4fc2-82d4-57e1c873a631.svg)
-
 A Python script that displays an ASCII-style clock in the terminal
 
 ## How it works:
